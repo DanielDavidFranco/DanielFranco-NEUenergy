@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel David Franco, Co-Founder at NEU Energy
 - 👀 I’m interested in Blockchain Technology, AI, Transactive Energy, etc
 - 🌱 I’m currently learning front-end programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web3 or transactive energy projects
 - 📫 How to reach me: francodaniil@yandex.ru (personal email) or dfranco@neu.com.co (NEU Energy LLC corporate email)
 
 <!---
