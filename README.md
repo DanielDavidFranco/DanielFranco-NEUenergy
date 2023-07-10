@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Technology, AI, Transactive Energy, etc
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on web3 or transactive energy projects
-- 📫 How to reach me: francodaniil@yandex.ru (personal email) or dfranco@neu.com.co (NEU Energy LLC corporate email)
+- 📫 How to reach me: francodaniil@yandex.ru (personal email)
 
 <!---
 DanielFranco-NEUenergy/DanielFranco-NEUenergy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
